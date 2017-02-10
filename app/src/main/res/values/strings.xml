@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Binary Vintage Asg</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="book_name">Book Name</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="robbin">Robbin</string>
+    <string name="alice_in_the_wonderland">Alice in the Wonderland</string>
+    <string name="_1_august_2014">1 August 2014</string>
+    <string name="_31_august_2014">31 August 2014</string>
+    <string name="john">John</string>
+    <string name="lord_of_the_ring">Lord of the Ring</string>
+    <string name="_15_august_2014">15 August 2014</string>
+    <string name="_15_september_2014">15 September 2014</string>
+    <string name="add">ADD</string>
+    <string name="book_setup">book_setup</string>
+</resources>
